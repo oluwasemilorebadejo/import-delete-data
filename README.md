@@ -1,5 +1,4 @@
 # import-delete-data
-this js script imports and deletes documents on mongodb
 
 This script is used to import and delete data from a MongoDB database.
 
